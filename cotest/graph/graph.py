@@ -1,7 +1,8 @@
 import sys
 sys.setrecursionlimit(10000)
+input = sys.stdin.readline
 
-def dfs(v, visited, graph:)
+def dfs(v, visited, graph):
     visited[v] = True
     for neighbor in graph[v]:
         if not visited[neighbor]:
