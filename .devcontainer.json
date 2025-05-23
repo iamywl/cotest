@@ -1,0 +1,14 @@
+{
+  "name": "Python Dev",
+  "image": "python:latest",
+  "workspaceFolder": "/workspace",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind",
+    "source=/Users/ywlee/.ssh,target=/root/.ssh,type=bind,consistency=cached,readonly"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "remoteUser": "root"
+}
+
