@@ -1,3 +1,4 @@
+# src =  https://www.acmicpc.net/problem/2490
 #윷 0 
 #도 3 
 #개 2 

@@ -5,7 +5,7 @@ import sys
 input = sys.stdin.readline
 
 boo = list(map(int, input().split()))
-temp = int()
+temp = 0
 
 if (boo[0] > boo[1]):
     temp = boo[0]
@@ -22,7 +22,7 @@ if (boo[0] > boo[1]):
     boo[0] = boo[1]
     boo[1] = temp
 
-print(f"{boo[0]}, {boo[1]}, {boo[2]}")
+print(f"{boo[0]} {boo[1]} {boo[2]}")
 
 # 파이썬은 sorting 라이브러리를 제공한다 ㅋㅋㅋ
 # A = list(map(int, input().split()))
