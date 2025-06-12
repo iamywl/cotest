@@ -19,14 +19,14 @@
 |O| 기본 문제 | 10093 | [숫자](https://www.acmicpc.net/problem/10093) | DONE |
 |O| 기본 문제 | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | DONE |
 |O| 기본 문제 | 10804 | [카드 역배치](https://www.acmicpc.net/problem/10804) | DONE |
-|O| 기본 문제 | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | 미완료 |
+|O| 기본 문제 | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | DONE |
 |X| 기본 문제 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | DONE |
-|O| 기본 문제 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | DONE |
-|| 기본 문제 | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | 미완료 |
-|| 기본 문제 | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | 미완료 |
-|| 기본 문제 | 2442 | [별 찍기 - 5](https://www.acmicpc.net/problem/2442) | 미완료 |
-|| 기본 문제 | 2443 | [별 찍기 - 6](https://www.acmicpc.net/problem/2443) | 미완료 |
-|| 기본 문제 | 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | 미완료 |
+|X| 기본 문제 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | DONE |
+|X| 기본 문제 | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | DONE |
+|X| 기본 문제 | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | DONE |
+|O| 기본 문제 | 2442 | [별 찍기 - 5](https://www.acmicpc.net/problem/2442) | DONE |
+|O| 기본 문제 | 2443 | [별 찍기 - 6](https://www.acmicpc.net/problem/2443) | 미완료 |
+|O| 기본 문제 | 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | 미완료 |
 || 기본 문제 | 2445 | [별 찍기 - 8](https://www.acmicpc.net/problem/2445) | 미완료 |
 || 기본 문제 | 2446 | [별 찍기 - 9](https://www.acmicpc.net/problem/2446) | 미완료 |
 || 기본 문제 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | DONE |
