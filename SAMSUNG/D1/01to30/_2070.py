@@ -1,4 +1,6 @@
-# 2개의 수를 입력받아 크기를 비교하여 등호 또는 부등호를 출력하는 프로그램을 작성하라
+# src = https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq
+# # 2개의 수를 입력받아 크기를 비교하여 등호 또는 부등호를 출력하는 프로그램을 작성하라
+
 T = int(input())
 def compare(arg1, arg2):
     if arg1 > arg2:

@@ -4,7 +4,7 @@
 |복습 필요성| 문제 분류 | 문제 | 문제 제목 |DONE| 
 |:--:|  :--:   | :--: | :--: | :--: |
 |O| 연습 문제 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808)  |dictionary 개념 알 수 잇음.| 
-|| 기본 문제 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577)    | |
+|O| 기본 문제 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577)    | |
 || 기본 문제 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475)       ||
 || 기본 문제 | 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273)     ||
 || 기본 문제 | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807)    ||

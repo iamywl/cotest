@@ -1,4 +1,3 @@
-![37%](https://progress-bar.xyz/37/?scale=100&title=progress&width=500&color=4CAF50&suffix=/27)
 ## 백준 문제집: 기초 코드 작성 요령 II (진행 상황)
 
 |복습 가치| 문제 분류 | 문제 번호 | 문제 제목 | 진행 상황 |
@@ -15,7 +14,7 @@
 |X| 기본 문제 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | DONE |
 |X| 기본 문제 | 2576 | [홀수](https://www.acmicpc.net/problem/2576) | DONE |
 |X| 기본 문제 | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | DONE |
-|O| 기본 문제 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 미완료 |
+|O| 기본 문제 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | DONE |
 |O| 기본 문제 | 10093 | [숫자](https://www.acmicpc.net/problem/10093)   | DONE |
 |O| 기본 문제 | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267)  | DONE |
 |O| 기본 문제 | 10804 | [카드 역배치](https://www.acmicpc.net/problem/10804)  | DONE |

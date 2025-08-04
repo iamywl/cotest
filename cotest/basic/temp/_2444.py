@@ -1,13 +1,3 @@
-# src = https://www.acmicpc.net/problem/2445
-
-import sys
-input = sys.stdin.readline
-N = int(input())
-
-
-for i in range(1,2*N+1):
-    print(i)
-
 # src = https://www.acmicpc.net/problem/2444
 
 import sys

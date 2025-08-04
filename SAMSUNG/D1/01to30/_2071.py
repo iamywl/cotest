@@ -1,3 +1,5 @@
+# src = https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq
+
 # T개의 개수의 테스트 케이스가 주어진다.
 # 각 테스트 케이스의 개수는 10개
 # 각 테스트 케이스별로 평균 값을 출력하라
