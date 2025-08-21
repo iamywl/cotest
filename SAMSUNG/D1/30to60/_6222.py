@@ -13,7 +13,7 @@ if ord(inputs) >= 65 and ord(inputs) <= 90:
 # 소문자 => 대문자
 if ord(inputs) >= 97 and ord(inputs) <= 122:
     #print(chr(ord(inputs)-32))
-    print(f'{inputs}(ASCII: {ord(inputs)}) => {chr(ord(inputs)+32)}(ASCII: {ord(inputs)-32})')
+    print(f'{inputs}(ASCII: {ord(inputs)}) => {chr(ord(inputs)-32)}(ASCII: {ord(inputs)-32})')
 # 아닌 것은 그대로 
 else:
     print(inputs)
