@@ -16,6 +16,7 @@ trap "rm -f $TMP_CURRENT $TMP_ALL" EXIT
 total_count=0
 boj_count=0
 sejong_count=0
+swea_count=0
 other_count=0
 
 find . -type f \( -name "*.py" -o -name "*.c" -o -name "*.cpp" -o -name "*.java" -o -name "*.js" -o -name "*.ts" -o -name "*.rs" -o -name "*.go" -o -name "*.rb" \) -not -path './.git/*' | while IFS= read -r filepath; do
@@ -32,6 +33,7 @@ while IFS= read -r line; do
     case "$dirpath" in
         boj*) boj_count=$((boj_count + 1)) ;;
         sejong*) sejong_count=$((sejong_count + 1)) ;;
+        swea*) swea_count=$((swea_count + 1)) ;;
         *) other_count=$((other_count + 1)) ;;
     esac
 done < "$TMP_CURRENT"
@@ -76,7 +78,7 @@ while IFS= read -r line; do
 done <<< "$sorted_rows"
 
 # 디렉토리별 요약 표
-dir_summary="| sejong | ${sejong_count} |\n| boj | ${boj_count} |"
+dir_summary="| sejong | ${sejong_count} |\n| swea | ${swea_count} |\n| boj | ${boj_count} |"
 if [ "$other_count" -gt 0 ]; then
     dir_summary="${dir_summary}\n| 기타 | ${other_count} |"
 fi
@@ -117,4 +119,4 @@ done <<< "$sorted_rows"
 echo "REC.md 업데이트 완료!"
 echo "REC.csv 저장 완료!"
 echo "  시간: ${TIMESTAMP}"
-echo "  전체: ${total_count}개 (sejong: ${sejong_count}, boj: ${boj_count})"
+echo "  전체: ${total_count}개 (sejong: ${sejong_count}, swea: ${swea_count}, boj: ${boj_count})"
